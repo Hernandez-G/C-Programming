@@ -36,8 +36,8 @@ int main()
     printf("%d\n", e); //bool
     // printf("%c\n", f); //char f
     // printf("%d\n", g); //char f
-    printf("%d\n", j);
-    printf("%u\n", k);
+    // printf("%d\n", j);
+    // printf("%u\n", k);
 
 
 
