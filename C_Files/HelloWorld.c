@@ -17,3 +17,20 @@ int main() {
     //FOR LINUX/Ubuntu
     //cd code/LearnC/C_Files
 
+//Comments:
+    // Single line comments
+    /* multi
+        line comments
+    */
+ 
+//Escape Sequence:
+    /* character combination consisting of a backslash \
+    followed by a letter or combination of digits.
+        \n = new line
+        \t = tab
+        "\"I Like Pizza\" - Abraham Lincoln" = displays double quotes within a string
+        "\'I Like Pizza\' - Abraham Lincoln" = displays single quotes within a string
+        "\\I Like Pizza\\' - Abraham Lincoln" = displays backslash within a string
+ 
+        [Like on JavaScript Exercise on FCC ]
+    */
