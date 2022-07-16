@@ -21,3 +21,9 @@ int main() {
 
     return 0;
 }
+
+
+/*Was getting an error "sqrt" was not found but by adding
+    -lm at the end of compling file 
+    it was able to run properly
+*/
