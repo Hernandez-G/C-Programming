@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-/*
+/* dont forget to include <math.h>
     sqrt = square root
     pow = power (num, to the power of)
     round = round number
