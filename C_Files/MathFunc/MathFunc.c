@@ -14,7 +14,8 @@ int main() {
     double I = cos(45);
     double J = tan(45);
 
-    printf("\n%lf", F);
+    printf("\n%lf", F); //for AB, F-J
+    // printf("\n%d", D); == for int
 
     return 0;
 }
