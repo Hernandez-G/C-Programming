@@ -17,3 +17,4 @@ int main() {
 
 // functions cannot see inside other functions
 // pass variables into function args in main and in birthday function
+// parameters is what the function expects when invoked
