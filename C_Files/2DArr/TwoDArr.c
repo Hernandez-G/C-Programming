@@ -55,4 +55,5 @@ int main() {
     3. add two [] to var ; add double {} around val > int var[][] = {{val}, {val}}
     4. max size goes into 2nd []
     5. set max of arr in 1st []
+    5. int numbers[max of arr][max size of items in arr] = {{values1}, {values2}};
 */
