@@ -27,5 +27,7 @@ int main() {
     return 0;
 }
 
-// WHILE LOOPS = repeats part of the code unlimited times(possibly)/ 
+// WHILE LOOPS = repeats part of the code unlimited times(possibly)
+// 1. checks condition
+// 2. executes a block of code if condition is true
 // while some conditions remains true, a while loop might not execute at all depending on condition
