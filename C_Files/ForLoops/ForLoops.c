@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    for(int i = 10; i >= 1; i-= 2) 
-    {
-        printf("%d\n", i);
+    // for(int i = 10; i >= 1; i-= 2) 
+    // {
+    //     printf("%d\n", i);
 
-    }
+    // }
 
 
-    return 0;
+    // return 0;
 }
 
 // FOR LOOPS = repeats a section of code a limited amount of times
