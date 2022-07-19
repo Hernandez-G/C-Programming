@@ -10,8 +10,14 @@ int main()
 {
 // value = address
     int age = 21;
-    int *pAge = NULL; //good practice to assign NULL if declaring a pointer
-    pAge = &age
+    int *pAge = &age;
+
+
+// ON WAY TO:
+    // int age = 21;
+    // int *pAge = NULL; //good practice to assign NULL if declaring a pointer
+    // pAge = &age
+    
     
     // printf("address of age %p\n", &age);
     // printf("value of age %p\n", pAge);
